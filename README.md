@@ -9,6 +9,13 @@
 - http://tuta.io/ - почта End-to-End
 - https://tresorit.com/ - End-to-End Encrypted File Sync & Sharing
 
+## Редакторы:
+
+- http://www.sublimetext.com/ - Sublime Text
+- https://www.jetbrains.com/ruby/ - Rubymine
+- https://code.visualstudio.com/Download - Visual Studio Code
+- https://www.vim.org/ - Vim
+
 ## Music for programmers:
 
 - http://air.radiorecord.ru:805/neurofunk_320 - Neurofunk (hard work) 
