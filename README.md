@@ -16,24 +16,19 @@
 - https://code.visualstudio.com/Download - Visual Studio Code
 - https://www.vim.org/ - Vim
 
-## Music for programmers:
-
-- http://air.radiorecord.ru:805/neurofunk_320 - Neurofunk (hard work) 
-- http://212.86.109.178/trance - DevCon Trance (fast work)
-- http://online.radiorecord.ru:8102/brks_128 - Radio Record Breaks (think about it)
-- http://radio2.chinesemusicworld.com/ - China World (work at morning)
-
 ## Ruby:
 
-... (at work)
+- https://rubygems.org/ - Ruby Gems
+- https://guides.rubyonrails.org/ - Rails Guides
+- https://docs.ruby-lang.org/en/2.5.0/ - Ruby Docs
 
 ## Vue.js:
 
-... (at work)
+- https://ru.vuejs.org/v2/guide/index.html - руководство по Vue.js (на русском языке)
 
 ## PostgreSQL, SQLite:
 
-... (at work)
+- https://postgrespro.ru/docs - документация PostgreSQL (на русском языке)
 
 ## Курсы программирования и Computer Science:
 
@@ -45,8 +40,15 @@
 
 ## English language (английский язык)
 
-... (at work)
+- https://www.youtube.com/watch?v=8sNV6NvgAgY&list=PL66DIGaegedqtRaxfVsk6vH5dBDuL5w92 - Полиглот. Английский язык с Петровым
 
 ## der Deutsch (немецкий язык)
 
-... (at work)
+- https://www.youtube.com/watch?v=awMhxwL2xSE&list=PL66DIGaegedo14WIQcheu2OiJd4xpQzxf - Полиглот. Немецкий язык с Петровым
+
+## Music for programmers:
+
+- http://air.radiorecord.ru:805/neurofunk_320 - Neurofunk (hard work) 
+- http://212.86.109.178/trance - DevCon Trance (fast work)
+- http://online.radiorecord.ru:8102/brks_128 - Radio Record Breaks (think about it)
+- http://radio2.chinesemusicworld.com/ - China World (work at morning)
