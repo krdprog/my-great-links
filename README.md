@@ -29,6 +29,7 @@
 ## PostgreSQL, SQLite:
 
 - https://postgrespro.ru/docs - документация PostgreSQL (на русском языке)
+- https://dbdiagram.io/home/ - Visual DB diagram creator
 
 ## Курсы программирования и Computer Science:
 
