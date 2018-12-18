@@ -37,7 +37,9 @@
 
 ## Тренеровка навыков программирования:
 
-... (at work)
+- https://projecteuler.net/archives
+- https://www.codewars.com/
+- http://codekata.com/
 
 ## English language (английский язык)
 
@@ -46,6 +48,11 @@
 ## der Deutsch (немецкий язык)
 
 - https://www.youtube.com/watch?v=awMhxwL2xSE&list=PL66DIGaegedo14WIQcheu2OiJd4xpQzxf - Полиглот. Немецкий язык с Петровым
+
+## Поиск работы:
+
+- http://berlinstartupjobs.com/
+- https://www.indeed.com/
 
 ## Music for programmers:
 
