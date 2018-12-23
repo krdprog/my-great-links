@@ -33,7 +33,7 @@
 
 ## Курсы программирования и Computer Science:
 
-... (at work)
+- https://www.youtube.com/playlist?list=PLawfWYMUziZqyUL5QDLVbe3j5BKWj42E5 - CS50 на русском (Гарвардский курс по основам программирования)
 
 ## Тренеровка навыков программирования:
 
