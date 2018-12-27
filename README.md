@@ -9,6 +9,14 @@
 - http://tuta.io/ - почта End-to-End
 - https://tresorit.com/ - End-to-End Encrypted File Sync & Sharing
 - https://duckduckgo.com/ - поисковая система (не пользуйтесь Яндексом и Google, переходите на поиск без рекламы и сбора информации о вас)
+- https://www.mozilla.org/en-US/firefox/new/ - Firefox
+
+## Addons для Firefox:
+
+- Ghostery – Конфиденциальный Блокировщик Рекламы - https://addons.mozilla.org/ru/firefox/addon/ghostery/
+- LiveReload - https://addons.mozilla.org/ru/firefox/addon/livereload-web-extension/
+- SQLite Manager - https://github.com/lazierthanthou/sqlite-manager
+- Video Speed Controller - управление скоростью воспроизведения видео - https://addons.mozilla.org/ru/firefox/addon/videospeed/
 
 ## Редакторы:
 
