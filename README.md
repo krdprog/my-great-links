@@ -8,6 +8,7 @@
 - https://kanbanflow.com/ - KANBAN/SCRUM доски
 - http://tuta.io/ - почта End-to-End
 - https://tresorit.com/ - End-to-End Encrypted File Sync & Sharing
+- https://duckduckgo.com/ - поисковая система (не пользуйтесь Яндексом и Google, переходите на поиск без рекламы и сбора информации о вас)
 
 ## Редакторы:
 
