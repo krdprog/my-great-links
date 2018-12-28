@@ -63,6 +63,11 @@
 - http://berlinstartupjobs.com/
 - https://www.indeed.com/
 - https://www.ziprecruiter.com/candidate/search?search=ruby&location=
+- https://www.xing.com/
+- https://www.monster.de/
+- https://www.glassdoor.de/index.htm
+- https://con.arbeitsagentur.de/prod/jobboerse/jobsuche-ui/
+- https://www.gehalt.de/
 
 ## Music for programmers:
 
