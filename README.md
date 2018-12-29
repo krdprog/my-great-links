@@ -25,6 +25,9 @@
 - https://code.visualstudio.com/Download - Visual Studio Code
 - https://www.vim.org/ - Vim
 
+## Шрифт для программиста:
+- https://github.com/source-foundry/Hack
+
 ## Ruby:
 
 - https://rubygems.org/ - Ruby Gems
