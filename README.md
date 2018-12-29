@@ -49,6 +49,7 @@
 - https://projecteuler.net/archives
 - https://www.codewars.com/
 - http://codekata.com/
+- https://exercism.io/
 
 ## English language (английский язык)
 
