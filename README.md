@@ -79,3 +79,15 @@
 - http://212.86.109.178/trance - DevCon Trance (fast work)
 - http://online.radiorecord.ru:8102/brks_128 - Radio Record Breaks (think about it)
 - http://radio2.chinesemusicworld.com/ - China World (work at morning)
+
+## Ruby Gems:
+
+(in progress)
+
+## Linux Programms:
+
+(in progress)
+
+## Books:
+
+(in progress)
