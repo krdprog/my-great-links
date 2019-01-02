@@ -65,7 +65,6 @@
 ## Поиск работы:
 
 - http://berlinstartupjobs.com/
-- https://jobs.rubynow.com/
 - https://www.indeed.com/
 - https://www.ziprecruiter.com/candidate/search?search=ruby&location=
 - https://www.xing.com/
@@ -73,6 +72,12 @@
 - https://www.glassdoor.de/index.htm
 - https://con.arbeitsagentur.de/prod/jobboerse/jobsuche-ui/
 - https://www.gehalt.de/
+
+Требует проверки:
+
+- https://jobs.rubynow.com/
+- https://www.railsjobs.com/
+- https://www.rorjobs.com/
 
 ## Music for programmers:
 
