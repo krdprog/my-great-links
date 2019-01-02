@@ -65,6 +65,7 @@
 ## Поиск работы:
 
 - http://berlinstartupjobs.com/
+- https://jobs.rubynow.com/
 - https://www.indeed.com/
 - https://www.ziprecruiter.com/candidate/search?search=ruby&location=
 - https://www.xing.com/
