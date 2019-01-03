@@ -40,6 +40,15 @@
 - https://rework.fm/
 - http://5by5.tv/rubyonrails
 
+## Ruby-рассылки:
+
+- https://rails-weekly.ongoodbits.com/ - This Week In Rails
+- https://rubyweekly.com/ - Ruby Weekly
+
+## Twitter-аккаунты из Ruby-сообщества, конференции, люди, организации...
+
+- https://twitter.com/krdprog/following - большая подборка twitter-аккаунтов на тему Ruby.
+
 ## Vue.js:
 
 - https://ru.vuejs.org/v2/guide/index.html - руководство по Vue.js (на русском языке)
