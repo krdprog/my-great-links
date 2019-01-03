@@ -34,6 +34,12 @@
 - https://guides.rubyonrails.org/ - Rails Guides
 - https://docs.ruby-lang.org/en/2.5.0/ - Ruby Docs
 
+## Ruby-подкасты:
+
+- https://remoteruby.transistor.fm/
+- https://rework.fm/
+- http://5by5.tv/rubyonrails
+
 ## Vue.js:
 
 - https://ru.vuejs.org/v2/guide/index.html - руководство по Vue.js (на русском языке)
