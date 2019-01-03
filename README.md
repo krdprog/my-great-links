@@ -64,6 +64,7 @@
 
 ## Поиск работы:
 
+- https://remoteok.io/
 - http://berlinstartupjobs.com/
 - https://www.indeed.com/
 - https://www.ziprecruiter.com/candidate/search?search=ruby&location=
