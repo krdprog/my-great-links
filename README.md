@@ -34,6 +34,7 @@
 - https://guides.rubyonrails.org/ - Rails Guides
 - https://docs.ruby-lang.org/en/2.5.0/ - Ruby Docs
 - http://onrails.club/ - форум
+- https://www.apiduck.io/ - документация (ещё один сайт с документацией, удобный поиск)
 
 ## Ruby-подкасты:
 
