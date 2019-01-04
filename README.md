@@ -110,6 +110,12 @@
 
 (in progress)
 
+## Security:
+
+- https://www.securityfocus.com/
+- https://rescan.pro/
+- https://www.virustotal.com/
+
 ## Книги:
 
 - "Совершенный код", Стив Макконнел
