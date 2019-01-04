@@ -112,9 +112,10 @@
 
 ## Security:
 
-- https://www.securityfocus.com/
+- https://haveibeenpwned.com/
 - https://rescan.pro/
 - https://www.virustotal.com/
+- https://www.securityfocus.com/
 
 ## Книги:
 
