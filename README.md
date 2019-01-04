@@ -33,6 +33,7 @@
 - https://rubygems.org/ - Ruby Gems
 - https://guides.rubyonrails.org/ - Rails Guides
 - https://docs.ruby-lang.org/en/2.5.0/ - Ruby Docs
+- http://onrails.club/ - форум
 
 ## Ruby-подкасты:
 
