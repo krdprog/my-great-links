@@ -112,6 +112,7 @@
 
 ## Security:
 
+- https://github.com/thesp0nge/dawnscanner - анализатор ruby/ror/sinatra приложений на предмет уязвимостей
 - https://haveibeenpwned.com/
 - https://rescan.pro/
 - https://www.virustotal.com/
