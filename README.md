@@ -10,6 +10,7 @@
 - https://tresorit.com/ - End-to-End Encrypted File Sync & Sharing
 - https://duckduckgo.com/ - поисковая система (не пользуйтесь Яндексом и Google, переходите на поиск без рекламы и сбора информации о вас)
 - https://www.mozilla.org/en-US/firefox/new/ - Firefox
+- https://www.spritzlet.com/ - Spritzlet для ускоренного чтения веб-страниц
 
 ## Addons для Firefox:
 
@@ -30,6 +31,7 @@
 
 ## Ruby:
 
+- http://rusrails.ru/ - Ruby on Rails по-русски
 - https://guides.rubyonrails.org/ - Rails Guides
 - https://docs.ruby-lang.org/en/2.5.0/ - Ruby Docs
 - http://onrails.club/ - форум
