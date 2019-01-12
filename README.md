@@ -53,6 +53,10 @@
 - https://rails-weekly.ongoodbits.com/ - This Week In Rails
 - https://rubyweekly.com/ - Ruby Weekly
 
+## Ruby-блоги:
+
+- https://weblog.rubyonrails.org/
+
 ## Twitter-аккаунты из Ruby-сообщества, конференции, люди, организации...
 
 - https://twitter.com/krdprog/following - большая подборка twitter-аккаунтов на тему Ruby.
