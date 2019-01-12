@@ -34,6 +34,7 @@
 - http://rusrails.ru/ - Ruby on Rails по-русски
 - https://guides.rubyonrails.org/ - Rails Guides
 - https://docs.ruby-lang.org/en/2.5.0/ - Ruby Docs
+- http://api.rusrails.ru/ - Rails, Ruby API
 - http://onrails.club/ - форум
 - https://www.apiduck.io/ - документация (ещё один сайт с документацией)
 - https://devdocs.io/ - отличный сайт с документацией (с оффлайн-версией в браузере)
