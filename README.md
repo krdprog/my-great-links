@@ -47,6 +47,7 @@
 - https://remoteruby.transistor.fm/
 - https://rework.fm/
 - http://5by5.tv/rubyonrails
+- https://devchat.tv/ruby-rogues/
 
 ## Ruby-рассылки:
 
