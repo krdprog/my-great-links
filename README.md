@@ -69,6 +69,10 @@
 ## Курсы программирования и Computer Science:
 
 - https://www.youtube.com/playlist?list=PLawfWYMUziZqyUL5QDLVbe3j5BKWj42E5 - CS50 на русском (Гарвардский курс по основам программирования)
+- https://udacity.com
+- https://www.freecodecamp.org/
+- http://hexlet.io/
+- https://www.codecademy.com/
 
 ## Тренеровка навыков программирования:
 
@@ -93,6 +97,7 @@
 - https://www.ziprecruiter.com/candidate/search?search=ruby&location=
 - https://www.xing.com/
 - https://www.monster.de/
+- https://www.glassdoor.com/index.htm
 - https://www.glassdoor.de/index.htm
 - https://con.arbeitsagentur.de/prod/jobboerse/jobsuche-ui/
 - https://www.gehalt.de/
