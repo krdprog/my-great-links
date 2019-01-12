@@ -85,6 +85,11 @@
 - http://codekata.com/
 - https://exercism.io/
 
+## Awersome-списки и bookmarks-списки на Github:
+
+- https://github.com/dreikanter/sublime-bookmarks
+- https://github.com/dreikanter/ruby-bookmarks
+
 ## English language (английский язык)
 
 - https://www.youtube.com/watch?v=8sNV6NvgAgY&list=PL66DIGaegedqtRaxfVsk6vH5dBDuL5w92 - Полиглот. Английский язык с Петровым
