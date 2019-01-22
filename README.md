@@ -25,10 +25,10 @@
 
 ## Редакторы:
 
-- http://www.sublimetext.com/ - Sublime Text
-- https://www.jetbrains.com/ruby/ - Rubymine
-- https://code.visualstudio.com/Download - Visual Studio Code
+- https://www.gnu.org/software/emacs/ - GNU Emacs
 - https://www.vim.org/ - Vim
+- http://www.sublimetext.com/ - Sublime Text
+- https://code.visualstudio.com/Download - Visual Studio Code
 
 ## Шрифт для программиста:
 - https://github.com/source-foundry/Hack
@@ -49,6 +49,7 @@
 - https://www.ruby-toolbox.com/ - gem list/catalog/stat
 - http://bestgems.org/ - gem list/catalog/stat
 - https://ossert.evilmartians.io/ - gem list/catalog/stat
+- https://libraries.io/ - search
 
 ## Ruby-подкасты:
 
@@ -120,15 +121,9 @@
 - https://con.arbeitsagentur.de/prod/jobboerse/jobsuche-ui/
 - https://www.gehalt.de/
 
-Требует проверки:
-
-- https://jobs.rubynow.com/
-- https://www.railsjobs.com/
-- https://www.rorjobs.com/
-
 ## Music for programmers:
 
-- http://air.radiorecord.ru:805/neurofunk_320 - Neurofunk (hard work) 
+- http://air.radiorecord.ru:805/neurofunk_320 - Neurofunk (hard work)
 - http://online.radiorecord.ru:8102/brks_128 - Radio Record Breaks (think about it)
 - http://radio2.chinesemusicworld.com/ - China World (work at morning)
 - Bash Radio: https://github.com/krdprog/bash-radio
