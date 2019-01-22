@@ -12,6 +12,10 @@
 - https://www.mozilla.org/en-US/firefox/new/ - Firefox
 - https://www.spritzlet.com/ - Spritzlet для ускоренного чтения веб-страниц
 
+## Open Source Lists:
+
+- https://libraries.io/ - search
+
 ## Addons для Firefox:
 
 - Ghostery – Конфиденциальный Блокировщик Рекламы - https://addons.mozilla.org/ru/firefox/addon/ghostery/
