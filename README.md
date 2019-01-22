@@ -31,6 +31,7 @@
 - https://code.visualstudio.com/Download - Visual Studio Code
 
 ## Шрифт для программиста:
+
 - https://github.com/source-foundry/Hack
 
 ## Ruby:
