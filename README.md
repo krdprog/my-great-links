@@ -11,6 +11,7 @@
 - https://duckduckgo.com/ - поисковая система (не пользуйтесь Яндексом и Google, переходите на поиск без рекламы и сбора информации о вас)
 - https://www.mozilla.org/en-US/firefox/new/ - Firefox
 - https://www.spritzlet.com/ - Spritzlet для ускоренного чтения веб-страниц
+- https://www.typingclub.com/ - тренеровка скоропечатания с английской раскладкой
 
 ## Open Source Lists:
 
@@ -88,6 +89,7 @@
 - https://www.freecodecamp.org/
 - http://hexlet.io/
 - https://www.codecademy.com/
+- https://coderbyte.com/
 
 ## Тренеровка навыков программирования:
 
@@ -95,6 +97,8 @@
 - https://www.codewars.com/
 - http://codekata.com/
 - https://exercism.io/
+- https://www.reddit.com/r/dailyprogrammer/
+- https://www.hackerrank.com/domains/algorithms
 
 ## Awersome-списки и bookmarks-списки на Github:
 
