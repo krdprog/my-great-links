@@ -44,6 +44,7 @@
 - http://onrails.club/ - форум
 - https://www.apiduck.io/ - документация (ещё один сайт с документацией)
 - https://devdocs.io/ - отличный сайт с документацией (с оффлайн-версией в браузере)
+- https://awesome-ruby.com/
 
 ## Ruby Gems Catalogs:
 
