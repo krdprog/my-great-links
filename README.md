@@ -45,6 +45,15 @@
 - https://www.apiduck.io/ - документация (ещё один сайт с документацией)
 - https://devdocs.io/ - отличный сайт с документацией (с оффлайн-версией в браузере)
 - https://awesome-ruby.com/
+- https://github.com/arbox/rails-style-guide
+- https://github.com/arbox/ruby-style-guide
+- https://github.com/Hexlet/ru-test-assignments
+- https://github.com/ekremkaraca/awesome-rails
+- https://github.com/dreikanter/ruby-bookmarks
+- https://github.com/rubocop-hq/ruby-style-guide
+- https://github.com/markets/awesome-ruby
+- https://github.com/davidgf/design-patterns-in-ruby
+- https://github.com/basecamp/handbook
 
 ## Ruby Gems Catalogs:
 
