@@ -155,6 +155,7 @@
 
 - https://github.com/thesp0nge/dawnscanner - анализатор ruby/ror/sinatra приложений на предмет уязвимостей
 - https://haveibeenpwned.com/
+- https://monitor.firefox.com/
 - https://rescan.pro/
 - https://www.virustotal.com/
 - https://www.securityfocus.com/
