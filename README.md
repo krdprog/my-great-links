@@ -12,6 +12,7 @@
 - https://www.mozilla.org/en-US/firefox/new/ - Firefox
 - https://www.spritzlet.com/ - Spritzlet для ускоренного чтения веб-страниц
 - https://www.typingclub.com/ - тренеровка скоропечатания с английской раскладкой
+- https://rubular.com/ - Regex (a Ruby regular expression editor)
 
 ## Open Source Lists:
 
