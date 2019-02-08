@@ -99,6 +99,8 @@
 - https://crystal.libhunt.com/newsletter
 - https://github.com/veelenga/awesome-crystal
 - http://crystalshards.xyz/
+- http://www.crystalforrubyists.com/
+- http://crystalweekly.com/
 
 ## PostgreSQL, SQLite:
 
