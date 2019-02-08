@@ -78,10 +78,12 @@
 
 - https://rails-weekly.ongoodbits.com/ - This Week In Rails
 - https://rubyweekly.com/ - Ruby Weekly
+- https://ruby.libhunt.com/newsletter
 
 ## Ruby-блоги:
 
 - https://weblog.rubyonrails.org/
+- https://www.driftingruby.com/episodes
 
 ## Twitter-аккаунты из Ruby-сообщества, конференции, люди, организации...
 
@@ -90,6 +92,11 @@
 ## Vue.js:
 
 - https://ru.vuejs.org/v2/guide/index.html - руководство по Vue.js (на русском языке)
+
+## Crystal
+
+- https://crystal-lang.org/
+- https://crystal.libhunt.com/newsletter
 
 ## PostgreSQL, SQLite:
 
