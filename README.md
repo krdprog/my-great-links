@@ -93,7 +93,7 @@
 
 - https://ru.vuejs.org/v2/guide/index.html - руководство по Vue.js (на русском языке)
 
-## Crystal
+## Crystal:
 
 - https://crystal-lang.org/
 - https://crystal.libhunt.com/newsletter
