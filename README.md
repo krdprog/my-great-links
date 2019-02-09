@@ -60,6 +60,7 @@
 - https://thoughtbot.com/upcase/the-weekly-iteration
 - https://thoughtbot.com/upcase/
 - https://www.theodinproject.com/courses/ruby-on-rails
+- https://www.ruby.or.jp/en/certification/examination/
 
 ## Sublime Text - Ruby, RoR snipptes and etc.
 
