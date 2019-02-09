@@ -72,6 +72,10 @@ ln -s `pwd`/Packages/Ruby ~/.config/sublime-text-3/Packages/
 ln -s `pwd`/Packages/SQL ~/.config/sublime-text-3/Packages/
 ```
 
+## Тестирование Ruby
+
+- http://www.betterspecs.org/ru/
+
 ## Ruby Gems Catalogs:
 
 - https://rubygems.org/ - Ruby Gems
