@@ -42,7 +42,7 @@
 - https://guides.rubyonrails.org/ - Rails Guides
 - https://docs.ruby-lang.org/en/2.5.0/ - Ruby Docs
 - http://api.rusrails.ru/ - Rails, Ruby API
-- https://rubyonrails.org/doctrine/ru - Ruby Doctrine (rus)
+- https://rubyonrails.org/doctrine/ru - Rails Way (rus)
 - http://onrails.club/ - форум
 - https://www.apiduck.io/ - документация (ещё один сайт с документацией)
 - https://devdocs.io/ - отличный сайт с документацией (с оффлайн-версией в браузере)
@@ -130,13 +130,13 @@
 
 - https://github.com/dreikanter/sublime-bookmarks
 - https://github.com/dreikanter/ruby-bookmarks
-- 
+- https://github.com/ekremkaraca/awesome-rails
 
 ## English language (английский язык)
 
 - https://www.youtube.com/watch?v=8sNV6NvgAgY&list=PL66DIGaegedqtRaxfVsk6vH5dBDuL5w92 - Полиглот. Английский язык с Петровым
 
-## der Deutsch (немецкий язык)
+## der deutsch (немецкий язык)
 
 - https://www.youtube.com/watch?v=awMhxwL2xSE&list=PL66DIGaegedo14WIQcheu2OiJd4xpQzxf - Полиглот. Немецкий язык с Петровым
 
@@ -190,7 +190,8 @@
 - "Современные операционные системы", Э. Таненбаум, Х. Бос
 - "Структура и Интерпретация Компьютерных Программ", Харольд Абельсон, Джеральд Джей Сассман
 - "Рефакторинг. Улучшение проекта существующего кода", Мартин Фаулер
-- ...
+- "Приемы объектно-ориентированного проектирования
+Паттерны проектирования" Э. Гамма Р. Хелм Р. Джонсон Дж. Влиссидес (Банда Четырёх)
 
 ## Фильмы:
 
