@@ -42,6 +42,7 @@
 - https://guides.rubyonrails.org/ - Rails Guides
 - https://docs.ruby-lang.org/en/2.5.0/ - Ruby Docs
 - http://api.rusrails.ru/ - Rails, Ruby API
+- https://rubyonrails.org/doctrine/ru - Ruby Doctrine (rus)
 - http://onrails.club/ - форум
 - https://www.apiduck.io/ - документация (ещё один сайт с документацией)
 - https://devdocs.io/ - отличный сайт с документацией (с оффлайн-версией в браузере)
@@ -129,6 +130,7 @@
 
 - https://github.com/dreikanter/sublime-bookmarks
 - https://github.com/dreikanter/ruby-bookmarks
+- 
 
 ## English language (английский язык)
 
