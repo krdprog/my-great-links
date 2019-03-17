@@ -11,7 +11,7 @@
 - https://duckduckgo.com/ - поисковая система (не пользуйтесь Яндексом и Google, переходите на поиск без рекламы и сбора информации о вас)
 - https://www.mozilla.org/en-US/firefox/new/ - Firefox
 - https://www.spritzlet.com/ - Spritzlet для ускоренного чтения веб-страниц
-- https://www.typingclub.com/ - тренеровка скоропечатания с английской раскладкой
+- https://www.typingclub.com/ - тренировка скоропечатания с английской раскладкой
 - https://rubular.com/ - Regex (a Ruby regular expression editor)
 
 ## Open Source Lists:
@@ -62,7 +62,7 @@
 - https://www.theodinproject.com/courses/ruby-on-rails
 - https://www.ruby.or.jp/en/certification/examination/
 
-## Sublime Text - Ruby, RoR snipptes and etc.
+## Sublime Text - Ruby, RoR snipptes and etc.:
 
 - https://github.com/sublimehq/Packages/
 
@@ -73,7 +73,7 @@ ln -s `pwd`/Packages/Ruby ~/.config/sublime-text-3/Packages/
 ln -s `pwd`/Packages/SQL ~/.config/sublime-text-3/Packages/
 ```
 
-## Тестирование Ruby
+## Тестирование Ruby:
 
 - http://www.betterspecs.org/ru/
 
@@ -134,7 +134,7 @@ ln -s `pwd`/Packages/SQL ~/.config/sublime-text-3/Packages/
 - https://www.codecademy.com/
 - https://coderbyte.com/
 
-## Тренеровка навыков программирования:
+## Тренировка навыков программирования:
 
 - https://projecteuler.net/archives
 - https://www.codewars.com/
@@ -143,17 +143,17 @@ ln -s `pwd`/Packages/SQL ~/.config/sublime-text-3/Packages/
 - https://www.reddit.com/r/dailyprogrammer/
 - https://www.hackerrank.com/domains/algorithms
 
-## Awersome-списки и bookmarks-списки на Github:
+## Awesome-списки и bookmarks-списки на Github:
 
 - https://github.com/dreikanter/sublime-bookmarks
 - https://github.com/dreikanter/ruby-bookmarks
 - https://github.com/ekremkaraca/awesome-rails
 
-## English language (английский язык)
+## English language (английский язык):
 
 - https://www.youtube.com/watch?v=8sNV6NvgAgY&list=PL66DIGaegedqtRaxfVsk6vH5dBDuL5w92 - Полиглот. Английский язык с Петровым
 
-## der deutsch (немецкий язык)
+## der deutsch (немецкий язык):
 
 - https://www.youtube.com/watch?v=awMhxwL2xSE&list=PL66DIGaegedo14WIQcheu2OiJd4xpQzxf - Полиглот. Немецкий язык с Петровым
 
