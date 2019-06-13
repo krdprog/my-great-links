@@ -9,6 +9,7 @@
 - http://tuta.io/ - почта End-to-End
 - https://tresorit.com/ - End-to-End Encrypted File Sync & Sharing
 - https://duckduckgo.com/ - поисковая система (не пользуйтесь Яндексом и Google, переходите на поиск без рекламы и сбора информации о вас)
+- https://www.ecosia.org/ - ещё одна поисковая система
 - https://www.mozilla.org/en-US/firefox/new/ - Firefox
 - https://www.spritzlet.com/ - Spritzlet для ускоренного чтения веб-страниц
 - https://www.typingclub.com/ - тренировка скоропечатания с английской раскладкой
